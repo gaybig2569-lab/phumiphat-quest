@@ -1,0 +1,9 @@
+body {
+    animation: xx 6s infinite;
+}
+
+@keyframes xx {
+    30%   { background-color: #ed2323; }
+    60%  { background-color: #094d68; }
+    100% { background-color: #54c72a; }
+}
